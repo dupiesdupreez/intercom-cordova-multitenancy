@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="intercom-cordova-multiworkspace" version="0.0.9" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="cordova-intercom-plugin-multiworkspace" version="0.0.14" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>Intercom</name>
     <author>Intercom</author>
     <license>MIT License</license>
     <description>Cordova plugin for Intercom for mobile</description>
-    <repo>https://gitlab.com/8morne/intercom-cordova-multiworkspace.git</repo>
+    <repo>https://github.com/dupiesdupreez/intercom-cordova-multitenancy</repo>
     <keywords>intercom,intercom-cordova</keywords>
 
     <engines>

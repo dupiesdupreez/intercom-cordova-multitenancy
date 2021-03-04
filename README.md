@@ -50,7 +50,7 @@ To add the plugin to your PhoneGap app, add the following to your `config.xml`:
 
 ## Example App
 
-An example app is provided [here](https://github.com/intercom/intercom-cordova/tree/master/Example) that shows a basic Cordova/Phonegap app integration with Intercom.
+An example app is provided [here](https://github.com/dupiesdupreez/intercom-cordova-multitenancy/tree/master/Example) that shows a basic Cordova/Phonegap app integration with Intercom.
 
 ## Setup and Configuration
 
